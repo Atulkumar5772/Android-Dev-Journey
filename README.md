@@ -8,3 +8,4 @@ Daily progress and code as I learn Native Android (Kotlin & Jetpack Compose).
 * **Day 03 (3/11/2026):** [Outlined Text Field](KOTLIN/Day-3/day3.kt) - Covered value, on Value Change, Leading and Trailing Icon, Shape.
 * **Day 04 (4/11/2026):** [Row Layout](KOTLIN/Day-4/day4.kt) - Covered Horizontal Arrangement, Vertical Alignment.
 * **Day 05 (5/11/2026):** [Column Layout](KOTLIN/Day-5/day5.kt) - Covered Horizontal Alignment, Vertical Arrangement.
+* **Day 06 (6/11/2026):** [Box Layout](KOTLIN/Day-6/day6.kt) - Covered Modifier,  Content Alignment.
