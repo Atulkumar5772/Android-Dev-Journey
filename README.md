@@ -10,3 +10,4 @@ Daily progress and code as I learn Native Android (Kotlin & Jetpack Compose).
 * **Day 05 (5/11/2026):** [Column Layout](KOTLIN/Day-5/day5.kt) - Covered Horizontal Alignment, Vertical Arrangement.
 * **Day 06 (6/11/2026):** [Box Layout](KOTLIN/Day-6/day6.kt) - Covered Modifier,  Content Alignment.
 * **Day 07 (7/11/2026):** [Modifiers](KOTLIN/Day-7/day7.kt) - Covered All Modifiers.
+* **Day 08 (8/11/2026):** [Images](KOTLIN/Day-8/day8.kt) - Covered Displayng Images.
