@@ -16,3 +16,4 @@ Daily progress and code as I learn Native Android (Kotlin & Jetpack Compose).
 * **Day 11 (11/11/2026):** [Outlined Buttons](KOTLIN/Day-11/day11.kt) - Covered Outlined Buttons.
 * **Day 12 (12/11/2026):** [Text Buttons and Icon Buttons](KOTLIN/Day-12/day12.kt) - Covered Text Buttons and Icon Buttons.
 * **Day 13 (13/11/2026):** [Card UI](KOTLIN/Day-13/day13.kt) - Covered Modern Card UI.
+* **Day 14 (14/11/2026):** [Profile Card](KOTLIN/Day-13/day13.kt) - Covered Profile Summary Card.
